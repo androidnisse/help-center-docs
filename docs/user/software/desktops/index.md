@@ -41,3 +41,12 @@ Solus Xfce offers a fast and lightweight desktop experience. If you use Solus GN
 # If you use Solus plasma, don't run this command
 sudo eopkg install -c desktop.xfce
 ```
+
+## Cinnamon
+
+Solus Cinnamon offers a traditional and familiar desktop experience. If you use Solus Budgie, GNOME, or Xfce, you can test Cinnamon by running the following command:
+
+```bash
+# If you use Solus plasma, don't run this command
+sudo eopkg install cinnamon
+```
